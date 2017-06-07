@@ -1,6 +1,6 @@
 # oddreven
 Import java.io.*;
-Import java.until.*;
+Import java.util.*;
 Public class oddreven
 {
 Public static void main(String args[])
